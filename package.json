@@ -1,0 +1,30 @@
+{
+  "name": "onion",
+  "version": "1.0.0",
+  "description": "Markdown to AST compiler for API Blueprint",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -t 100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.corp.xoom.com:7999/pa/onion.git"
+  },
+  "keywords": [
+    "markdown",
+    "ast",
+    "protagonist",
+    "api",
+    "blueprint"
+  ],
+  "author": "Oscar Funes",
+  "license": "MIT",
+  "dependencies": {
+    "hoek": "^2.14.0",
+    "protagonist": "^0.20.1"
+  },
+  "devDependencies": {
+    "code": "^1.4.1",
+    "lab": "^5.13.0"
+  }
+}
