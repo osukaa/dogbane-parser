@@ -1,6 +1,6 @@
 # onion
 
-Onion is our module to convert markdown [API Blueprint](https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md) files into an abstract syntax tree.
+Onion is a module to convert markdown [API Blueprint](https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md) files into an abstract syntax tree.
 
 ## Usage
 
