@@ -1,6 +1,6 @@
 {
-  "name": "onion",
-  "version": "1.0.0",
+  "name": "dogbane-parser",
+  "version": "0.1.0",
   "description": "Markdown to AST compiler for API Blueprint",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:osukaa/onion.git"
+    "url": "git@github.com:osukaa/dogbane-parser.git"
   },
   "keywords": [
     "markdown",

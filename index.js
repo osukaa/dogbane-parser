@@ -10,6 +10,7 @@ var getAST = function (pathToFile) {
     hoek.assert(typeof callback === 'function', 'A callback is needed.');
 
     fs.readFile(pathToFile, { encoding: 'utf8' }, function (err, contents) {
+
         if (err) {
             return callback(err);
         }
